@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Top lanauges](https://github-readme-stats.vercel.app/api/top-langs/?username=gaulepal&show_icons=true&theme=radical)
+<!-- ![Top lanauges](https://github-readme-stats.vercel.app/api/top-langs/?username=gaulepal&show_icons=true&theme=radical) -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=gaulepal&count_private=true&show_icons=true&theme=radical)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=gaulepal&count_private=true&show_icons=true&theme=radical) -->
